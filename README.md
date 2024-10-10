@@ -8,3 +8,5 @@ Bu proje, araç filonuzdaki araçlar için küçük bir ekspertiz yapmayı amaç
 - **Maven**
 - **Lombok**
 - **JUnit**
+
+Eklenen collection localhost:8080 url ile çalışmaktadır
